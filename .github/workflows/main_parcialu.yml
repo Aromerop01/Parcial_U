@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ParcialU'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B0D254DC8C24457C967751721722E0E7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_492AF7C3DDA74317BC56A9AFCBBD6797 }}
           package: .
